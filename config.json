@@ -3,4 +3,5 @@
     "subTitle":"灵性成长 · 心灵觉醒 · 无极之道的生活方式",
     "avatarUrl":"https://raw.githubusercontent.com/youlinfx/youlinfx.github.io/main/logo.jpg",
     "GMEEK_VERSION":"last"
+    "style":".site-title,h1.title,.subhead{font-size:20px !important;}"
 }
